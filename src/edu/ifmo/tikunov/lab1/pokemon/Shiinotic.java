@@ -12,7 +12,7 @@ public class Shiinotic extends Morelull {
 	protected static final double SPEED = 30.;
 
 	public Shiinotic() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Shiinotic(String name, int level) {

@@ -12,7 +12,7 @@ public class Morelull extends Pokemon {
 	protected static final double SPEED = 15.;
 
 	public Morelull() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Morelull(String name, int level) {

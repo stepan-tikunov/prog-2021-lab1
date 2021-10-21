@@ -12,7 +12,7 @@ public class Charjabug extends Grubbin {
 	protected static final double SPEED = 36.;
 
 	public Charjabug() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Charjabug(String name, int level) {

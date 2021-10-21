@@ -12,7 +12,7 @@ public class Luvdisc extends Pokemon {
 	static final double SPEED = 97.;
 
 	public Luvdisc() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Luvdisc(String name, int level) {

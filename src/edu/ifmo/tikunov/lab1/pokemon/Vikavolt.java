@@ -12,7 +12,7 @@ public class Vikavolt extends Charjabug {
 	protected static final double SPEED = 43.;
 
 	public Vikavolt() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Vikavolt(String name, int level) {

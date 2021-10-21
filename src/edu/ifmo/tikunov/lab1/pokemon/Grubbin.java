@@ -12,7 +12,7 @@ public class Grubbin extends Pokemon {
 	protected static final double SPEED = 46.;
 
 	public Grubbin() {
-		this("Безымянный", 1);
+		this("No name", 1);
 	}
 
 	public Grubbin(String name, int level) {

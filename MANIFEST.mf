@@ -1,2 +1,2 @@
 Main-class: edu.ifmo.tikunov.lab1.Main
-Class-Path: pokemon.jar
+Class-Path: . pokemon.jar
